@@ -1,0 +1,247 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.tovar {
+  position: absolute;
+  inset: 0;
+}
+.aqua-mystic {
+  color: #792b14;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 359px;
+  top: 261px;
+  width: 769.92px;
+  height: 60.9px;
+}
+.rectangle-8 {
+  background: #c5e2e8;
+  border-radius: 20px;
+  width: 1394px;
+  height: 703.05px;
+  position: absolute;
+  left: 293px;
+  top: 219px;
+}
+.rectangle-11 {
+  background: #f5f5f5;
+  border-radius: 20px;
+  width: 333px;
+  height: 49px;
+  position: absolute;
+  left: 744px;
+  top: 346px;
+}
+.rectangle-12 {
+  background: #f5f5f5;
+  border-radius: 20px;
+  width: 333px;
+  height: 49px;
+  position: absolute;
+  left: 744px;
+  top: 433px;
+}
+.rectangle-13 {
+  background: #f5f5f5;
+  border-radius: 20px;
+  width: 333px;
+  height: 49px;
+  position: absolute;
+  left: 744px;
+  top: 520px;
+}
+.rectangle-14 {
+  background: #f5f5f5;
+  border-radius: 20px;
+  width: 333px;
+  height: 49px;
+  position: absolute;
+  left: 744px;
+  top: 607px;
+}
+.rectangle-15 {
+  background: #f5f5f5;
+  border-radius: 20px;
+  width: 333px;
+  height: 49px;
+  position: absolute;
+  left: 744px;
+  top: 817px;
+}
+.div2 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 374px;
+  top: 351px;
+}
+.div3 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 374px;
+  top: 444px;
+}
+.div4 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 374px;
+  top: 533px;
+}
+.div5 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 374px;
+  top: 618px;
+}
+.div6 {
+  color: #792b14;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 374px;
+  top: 804px;
+}
+.group-7 {
+  width: 271px;
+  height: 61.97px;
+  position: static;
+}
+.rectangle-9 {
+  background: #792b14;
+  border-radius: 50px;
+  width: 271px;
+  height: 61.97px;
+  position: absolute;
+  left: 1165px;
+  top: 811px;
+}
+.div7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1243.35px;
+  top: 819px;
+  width: 140.68px;
+  height: 46px;
+}
+.tsvet-butylka-1 {
+  border-radius: 20px;
+  width: 171px;
+  height: 405px;
+  position: absolute;
+  left: 1228px;
+  top: 280px;
+  object-fit: cover;
+}
+.shapka {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-5 {
+  background: #a4cad5;
+  width: 1980px;
+  height: 139px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-4 {
+  width: 633.88px;
+  height: 24px;
+  position: static;
+}
+.div8 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 891px;
+  top: 35px;
+  width: 105.88px;
+}
+.div9 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 673.75px;
+  top: 35px;
+  width: 78.38px;
+}
+.div10 {
+  color: #92523c;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1115.12px;
+  top: 35px;
+  width: 192.5px;
+  height: 19px;
+}
+.aqua-mystic2 {
+  color: #792b14;
+  text-align: left;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 26.12px;
+  top: 13px;
+  width: 400.12px;
+}
+.mdi-light-cart {
+  width: 59.12px;
+  height: 43px;
+  position: absolute;
+  left: 1886.5px;
+  top: 16px;
+  overflow: visible;
+}
+._7-900-131-36-05-10-00-18-00 {
+  color: #792b14;
+  text-align: center;
+  font-family: "Jura-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1399.75px;
+  top: 25px;
+  width: 455.12px;
+}
+

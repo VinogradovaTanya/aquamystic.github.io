@@ -1,0 +1,9 @@
+.rectangle-5,
+.rectangle-5 * {
+  box-sizing: border-box;
+}
+.rectangle-5 {
+  background: #a4cad5;
+  height: 135.56px;
+  position: relative;
+}
